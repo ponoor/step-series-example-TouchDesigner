@@ -15,7 +15,7 @@ Commands covered in this sample are:
 
 ## Setting up
 - Please refer the [Tutrial section of the STEP400](https://ponoor.com/en/docs/step400/tutorial/) for wiring and network configuration.
-Be aware for the network address. This sample assumes that you hve configured the STEP400 to 10.0.0.101 and your PC to 10.0.0.10. In case you have different IP, please change them accordingly.
+Be aware for the network address. This sample assumes that you have configured the STEP400 to 10.0.0.101 and your PC to 10.0.0.10. In case you have different IP, please change them accordingly.
 - Click "Activate" button to start OSC.
 - Select motor ID where you connected the stepper motor.
 - Select "Voltage" or "Current" mode. By clicking the slider, you can set the KVAL.
